@@ -1,0 +1,12 @@
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\obj\Debug\netstandard2.0\SwipeQuiz.csprojAssemblyReference.cache
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\obj\Debug\netstandard2.0\SwipeQuiz.csproj.CoreCompileInputs.cache
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\obj\Debug\netstandard2.0\SwipeQuiz.AssemblyInfoInputs.cache
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\obj\Debug\netstandard2.0\SwipeQuiz.AssemblyInfo.cs
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\obj\Debug\netstandard2.0\SwipeQuiz.dll
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\obj\Debug\netstandard2.0\SwipeQuiz.pdb
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\bin\Debug\netstandard2.0\SwipeQuiz.deps.json
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\bin\Debug\netstandard2.0\SwipeQuiz.dll
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\bin\Debug\netstandard2.0\SwipeQuiz.pdb
+C:\Users\LostM\source\repos\SwipeQuiz\SwipeQuiz\SwipeQuiz\obj\Debug\netstandard2.0\XamlC.stamp

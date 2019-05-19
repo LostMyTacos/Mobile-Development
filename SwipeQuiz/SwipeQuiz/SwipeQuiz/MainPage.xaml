@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SwipeQuiz"
+             x:Class="SwipeQuiz.MainPage">
+    <StackLayout Margin="20">
+        <Label x:Name="_Question" Text="Swipe in any Direction to start the quiz!" 
+               TextColor="Black" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>        
+        <Image x:Name="_Image"></Image>
+        <Label x:Name="_Correct" Text="Swipe Up to answer: Yes" TextColor="Green" FontSize="Micro"
+               HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+        <Label x:Name="_Incorrect" Text="Swipe Down to answer: No" TextColor="Red" FontSize="Micro"
+               HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+        <Label x:Name="_Start" Text="" TextColor="Black" FontSize="Micro"
+               HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+        <StackLayout.GestureRecognizers>
+            <SwipeGestureRecognizer Direction="Right" Swiped="OnSwiped"/>
+            <SwipeGestureRecognizer Direction="Left" Swiped="OnSwiped"/>
+            <SwipeGestureRecognizer Direction="Up" Swiped="OnSwiped"/>
+            <SwipeGestureRecognizer Direction="Down" Swiped="OnSwiped"/>
+        </StackLayout.GestureRecognizers>        
+    </StackLayout>
+
+</ContentPage>
