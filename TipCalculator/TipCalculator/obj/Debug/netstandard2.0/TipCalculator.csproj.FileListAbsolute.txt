@@ -1,0 +1,9 @@
+/Users/jschroeder43/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.csprojResolveAssemblyReference.cache
+/Users/jschroeder43/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.csproj.CoreCompileInputs.cache
+/Users/jschroeder43/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.AssemblyInfoInputs.cache
+/Users/jschroeder43/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.AssemblyInfo.cs
+/Users/jschroeder43/Projects/TipCalculator/TipCalculator/bin/Debug/netstandard2.0/TipCalculator.deps.json
+/Users/jschroeder43/Projects/TipCalculator/TipCalculator/bin/Debug/netstandard2.0/TipCalculator.dll
+/Users/jschroeder43/Projects/TipCalculator/TipCalculator/bin/Debug/netstandard2.0/TipCalculator.pdb
+/Users/jschroeder43/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.dll
+/Users/jschroeder43/Projects/TipCalculator/TipCalculator/obj/Debug/netstandard2.0/TipCalculator.pdb
