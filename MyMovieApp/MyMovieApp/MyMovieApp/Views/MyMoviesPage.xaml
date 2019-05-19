@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyMovieApp.Views.MyMoviesPage"
+             Title="My Movies">
+    <ContentPage.Content >
+        <StackLayout>
+            <!-- My Movies -->
+            <ListView x:Name="MyMoviesListView" ItemSelected="OnMyMovieSelected" IsPullToRefreshEnabled="True" RowHeight="150">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="{Binding PosterPath}" HeightRequest="125" WidthRequest="100"></Image>
+                                <StackLayout HorizontalOptions="StartAndExpand">
+                                    <Label Text="{Binding Title}" FontSize="30" />
+                                    <Label Text="{Binding ReleaseDate}" FontSize="15" TextColor="Gray" />
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

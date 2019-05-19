@@ -1,0 +1,16 @@
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\MyMovieApp.csprojAssemblyReference.cache
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\Views\MovieInfoPage.xaml.g.cs
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\Views\MovieSearchPage.xaml.g.cs
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\MyMovieApp.csproj.CoreCompileInputs.cache
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\MyMovieApp.AssemblyInfoInputs.cache
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\MyMovieApp.AssemblyInfo.cs
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\bin\Debug\netstandard2.0\MyMovieApp.deps.json
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\bin\Debug\netstandard2.0\MyMovieApp.dll
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\bin\Debug\netstandard2.0\MyMovieApp.pdb
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\MyMovieApp.dll
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\MyMovieApp.pdb
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\Views\MyMovieInfoPage.xaml.g.cs
+D:\Programming\Mobile-Dev\MyMovieApp\MyMovieApp\MyMovieApp\obj\Debug\netstandard2.0\Views\MyMoviesPage.xaml.g.cs

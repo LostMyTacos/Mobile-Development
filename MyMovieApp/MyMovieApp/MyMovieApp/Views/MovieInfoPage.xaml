@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyMovieApp.Views.MovieInfoPage">
+    <RelativeLayout>
+        <Image x:Name="poster" Source="{Binding PosterPath}"></Image>
+        <StackLayout Padding="20"
+			RelativeLayout.YConstraint="{ConstraintExpression
+				Type=RelativeToView,
+				ElementName=poster,
+				Property=Height,
+				Factor=1
+				}" 
+			>
+            <Label Text="{Binding Title}" FontSize="30" />
+            <Label Text="{Binding ReleaseDate}" FontSize="15" TextColor="Gray" />
+            <Label Text="{Binding Summary}" />
+            <StackLayout>
+                <Button Text="Add" Clicked="AddButton_Pressed"></Button>                
+            </StackLayout>
+        </StackLayout>
+    </RelativeLayout>
+</ContentPage>
